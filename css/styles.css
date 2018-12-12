@@ -387,3 +387,28 @@ footer {
   padding: 0; 
   
 }
+ /* table for testimonials */
+
+.reviews{
+  border-style: solid;
+  border-collapse: collapse;
+}
+.reviews td {
+  border-style: solid;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;   
+}
+ /* table for culture */
+
+.culture{
+   border-style: solid;
+   border-collapse: collapse;
+}
+.culture td {
+  border-style: solid;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+}
+  
