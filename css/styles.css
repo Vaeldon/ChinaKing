@@ -13,7 +13,7 @@ html, body {
 .navbar{
     width: 100%;
     z-index: 1;
-    background-color: #003387;
+    background-color: #bc1c39;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.62);
   
 }
@@ -37,7 +37,7 @@ html, body {
   
 }
 .navbar a:hover {
-  background-color: #052863;
+  background-color: #a31630;
 }
 
 .logo{
@@ -77,10 +77,10 @@ html, body {
   position: absolute;
 }
 .home-button {
-  background-color: #003387;
+  background-color: #bc1c39;
   color: white;
   text-align: center;
-  border: 1px solid #003082;
+  border: 1px solid #a31630;
   padding: 15px 32px;
   border-radius: 10px;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.1), 0 17px 50px 0 rgba(0,0,0,0.18);
@@ -88,10 +88,10 @@ html, body {
   outline: none;
 }
 .home-button:hover{
-  background-color: #052863;
+  background-color: #a31630;
   cursor: hand;
   box-shadow:0 12px 16px 0 rgba(0,0,0,0.22), 0 17px 50px 0 rgba(0,0,0,0.25); 
-  border-color: #12294f;
+  border-color: #8e1229;
   transition: background-color 0.2s;
 }
 .home-button:active{
@@ -152,7 +152,7 @@ outline: none;
 
 /*Footer Styles */
 footer {
-  background-color: #003387;
+  background-color: #bc1c39;
   color: white;
   margin-top: 10px;  
   display: flex;
@@ -163,7 +163,7 @@ footer {
 }
 
 #menu-footer {
-  background-color: #003387;
+  background-color: #bc1c39;
   color: white;
   display: flex;
   justify-content: center;
@@ -195,7 +195,7 @@ footer {
 }
 
 .footer-list a:hover {
-  background-color: #052863;
+  background-color: #a31630;
 }
 
 .footer-list li {
@@ -370,8 +370,7 @@ footer {
  
 }
 
-/*TESTIMONIAL PAGE STYLES */
-
+/* TESTIMONIAL PAGE STYLES */
   .reviews-table{
     table: 100%;
   }
@@ -387,28 +386,6 @@ footer {
   padding: 0; 
   
 }
- /* table for testimonials */
-
-.reviews{
-  border-style: solid;
-  border-collapse: collapse;
+.reviews img{
+  display: block;
 }
-.reviews td {
-  border-style: solid;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;   
-}
- /* table for culture */
-
-.culture{
-   border-style: solid;
-   border-collapse: collapse;
-}
-.culture td {
-  border-style: solid;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-}
-  
