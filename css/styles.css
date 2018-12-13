@@ -389,3 +389,18 @@ footer {
 .reviews img{
   display: block;
 }
+ /* table for culture */
+
+.culture{
+   border-style: solid;
+   border-collapse: collapse;
+}
+.culture td {
+  border-style: solid;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+}
+.culture img {
+  display: block;
+}  
